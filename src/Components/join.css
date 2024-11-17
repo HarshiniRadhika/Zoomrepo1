@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.join{
+    background-color: black;
+    color: rgb(136, 133, 133);
+}
+button{
+    height: 20px;
+    width: 30%;
+}
